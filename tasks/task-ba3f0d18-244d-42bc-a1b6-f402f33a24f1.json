@@ -1,0 +1,119 @@
+{
+    "id": "ba3f0d18-244d-42bc-a1b6-f402f33a24f1",
+    "content": "登录 SSH 服务器",
+    "pid": "root",
+    "detail": {
+        "nodes": [
+            {
+                "kind": "block",
+                "type": "h1",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "登录命令"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "\nssh -t root@114.215.78.51"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "root"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "111Qqq222"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "更新 test 文件的命令"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "\n/webapps/webhook/wxmall.deploy.sh\n/webapps/webhook/wxstore.deploy.sh\n\n\n"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": "\n"
+                    }
+                ]
+            },
+            {
+                "kind": "block",
+                "type": "paragraph",
+                "nodes": [
+                    {
+                        "kind": "text",
+                        "text": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
